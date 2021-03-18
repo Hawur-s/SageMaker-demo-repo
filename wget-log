@@ -1,0 +1,81 @@
+--2021-03-18 05:19:17--  http://robjhyndman.com/data/gasoline.csv
+Resolving robjhyndman.com (robjhyndman.com)... 35.208.79.31
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:21:27--  (try: 2)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:23:39--  (try: 3)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:25:53--  (try: 4)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:28:07--  (try: 5)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:30:24--  (try: 6)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:32:40--  (try: 7)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:34:56--  (try: 8)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:37:14--  (try: 9)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:39:32--  (try:10)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:41:53--  (try:11)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:44:12--  (try:12)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:46:31--  (try:13)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:48:50--  (try:14)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:51:10--  (try:15)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:53:29--  (try:16)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:55:48--  (try:17)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 05:58:07--  (try:18)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 06:00:27--  (try:19)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Retrying.
+
+--2021-03-18 06:02:46--  (try:20)  http://robjhyndman.com/data/gasoline.csv
+Connecting to robjhyndman.com (robjhyndman.com)|35.208.79.31|:80... failed: Connection timed out.
+Giving up.
+
